@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pravin%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Development%20%7C%20AI%20%26%20ML%20%7C%20Data%20Analytics&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pravin%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Development%20%7C%20AI%20%26%20ML%20%7C%20Data%20Analytics&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/> -->
 
-<!-- <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Business+Intelligence;Building+Intelligent+Digital+Products" alt="Typing SVG" />
-</a> -->
+</a> 
 
 <p>
   <img src="https://img.shields.io/badge/Graduate_Apprentice-Bosch-EA0C2B?style=flat-square&logo=bosch&logoColor=white" />
